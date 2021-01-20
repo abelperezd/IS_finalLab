@@ -12,10 +12,9 @@ Given the circumstances caused by the Covid-19, we decided to develop a children
 1. Download the files from the repository and the assets from the following address and include all of them in the same folder: https://drive.google.com/drive/folders/1iwrOZm08Vex6FY9V4Xqyhn32wa1kd6_b?usp=sharing
 
 2. Install outbuildings.
-
 - Install node from https://nodejs.org/en/download/
 
-2.2. Install Yarn package manager (download msi installer). https://classic.yarnpkg.com/en/docs/install/#windows-stable
+- Install Yarn package manager (download msi installer). https://classic.yarnpkg.com/en/docs/install/#windows-stable
 
 2.3. Open command line and install the dependencies (for a few minutes it will download and install packages and dependencies).
 
