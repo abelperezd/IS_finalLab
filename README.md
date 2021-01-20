@@ -14,15 +14,9 @@ Given the circumstances caused by the Covid-19, we decided to develop a children
 2. Install outbuildings.
 - Install node from https://nodejs.org/en/download/
 - Install Yarn package manager (download msi installer). https://classic.yarnpkg.com/en/docs/install/#windows-stable
-- Open command line and install the dependencies (for a few minutes it will download and install packages and dependencies).
-
-*>yarn*
-- Go to the folder posenetosc-master, open a command line and type
-
-*>node bridge.js*
-- Open a new command line in the same folder and type (opens a browser)
-
-*>yarn watch*
+- Open command line and install the dependencies (for a few minutes it will download and install packages and dependencies) *>yarn*
+- Go to the folder posenetosc-master, open a command line and type *>node bridge.js*
+- Open a new command line in the same folder and type (opens a browser) *>yarn watch*
 
 3. Keep the browser open with PoseNet running.
 
