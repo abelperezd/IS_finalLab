@@ -20,6 +20,7 @@ download and install packages and dependencies).
 *>yarn*
 2.4. Go to the folder posenetosc-master, open a command line and type
 *>node bridge.js*
+
 2.5.  Open a new command line in the same folder and type (opens a browser)
 *>yarn watch*
 3. Keep the browser open with PoseNet running.
