@@ -13,7 +13,7 @@ Given the circumstances caused by the Covid-19, we decided to develop a children
 
 2. Install outbuildings.
 
-2.1. Install node from https://nodejs.org/en/download/
+- Install node from https://nodejs.org/en/download/
 
 2.2. Install Yarn package manager (download msi installer). https://classic.yarnpkg.com/en/docs/install/#windows-stable
 
