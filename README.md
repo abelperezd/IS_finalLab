@@ -11,6 +11,7 @@ Given the circumstances caused by the Covid-19, we decided to develop a children
 ### Instructions for Windows
 1. Download the files from the repository and the assets from the following address and include all of them in the same folder: 
 https://drive.google.com/drive/folders/1iwrOZm08Vex6FY9V4Xqyhn32wa1kd6_b?usp=sharing
+
 2. Install outbuildings.
 2.1. Install node from https://nodejs.org/en/download/
 2.2. Install Yarn package manager (download msi installer).
@@ -23,5 +24,7 @@ download and install packages and dependencies).
 
 2.5.  Open a new command line in the same folder and type (opens a browser)
 *>yarn watch*
+
 3. Keep the browser open with PoseNet running.
+
 4. Open the project with Unity and start the game from the *Title* scene.
