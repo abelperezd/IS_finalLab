@@ -1,7 +1,7 @@
 # Repository information
 In this repository we find the final project of the subject Interactive Systems.
 
-This is a full body interaction game developed at Unity using the API of PoseNet (https://www.tensorflow.org/lite/models/pose_estimation/overview).
+This is a full body interaction game developed in Unity using the API of PoseNet (https://www.tensorflow.org/lite/models/pose_estimation/overview).
 
 In addition to the files, there is a demonstration video and a presentation in which we explain the game.
 
