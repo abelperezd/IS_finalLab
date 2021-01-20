@@ -9,20 +9,24 @@ In addition to the files, there is a demonstration video and a presentation in w
 Given the circumstances caused by the Covid-19, we decided to develop a children's game so that they could play sport from home. Considering the situation, we also gave it an educational approach in which they could indirectly learn concepts such as hand washing and the use of masks to prevent contagion.
 
 ### Instructions for Windows
-1. Download the files from the repository and the assets from the following address and include all of them in the same folder: 
-https://drive.google.com/drive/folders/1iwrOZm08Vex6FY9V4Xqyhn32wa1kd6_b?usp=sharing
+1. Download the files from the repository and the assets from the following address and include all of them in the same folder: https://drive.google.com/drive/folders/1iwrOZm08Vex6FY9V4Xqyhn32wa1kd6_b?usp=sharing
 
 2. Install outbuildings.
+
 2.1. Install node from https://nodejs.org/en/download/
-2.2. Install Yarn package manager (download msi installer).
-https://classic.yarnpkg.com/en/docs/install/#windows-stable
-2.3. Open command line and install the dependencies (for a few minutes it will
-download and install packages and dependencies).
+
+2.2. Install Yarn package manager (download msi installer). https://classic.yarnpkg.com/en/docs/install/#windows-stable
+
+2.3. Open command line and install the dependencies (for a few minutes it will download and install packages and dependencies).
+
 *>yarn*
+
 2.4. Go to the folder posenetosc-master, open a command line and type
+
 *>node bridge.js*
 
 2.5.  Open a new command line in the same folder and type (opens a browser)
+
 *>yarn watch*
 
 3. Keep the browser open with PoseNet running.
