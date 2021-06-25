@@ -1,5 +1,5 @@
 # Repository information
-In this repository we find the final project of the subject Interactive Systems, done in third.
+In this repository we find the final project of the subject Interactive Systems, done in the third year.
 
 This is a full body interaction game developed in Unity using the API of PoseNet (https://www.tensorflow.org/lite/models/pose_estimation/overview).
 
