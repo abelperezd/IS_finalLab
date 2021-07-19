@@ -1,9 +1,9 @@
-# Repository information
+# CoronaRun
 In this repository we find the final project of the Interactive Systems subject, done in the third year.
 
 This is a full body interaction game developed in Unity using the API of PoseNet (https://www.tensorflow.org/lite/models/pose_estimation/overview).
 
-In addition to the files, there is a demonstration video and a presentation in which we explain the game.
+In addition to the files, there is a a presentation in which we explain the game and a [demonstration video](https://youtu.be/V6bnjKIpPXE).
 
 ### Story
 Given the circumstances caused by the Covid-19, we decided to develop a children's game so that they could play sport from home. Considering the situation, we also gave it an educational approach in which they could indirectly learn concepts such as hand washing and the use of masks to prevent contagion.
